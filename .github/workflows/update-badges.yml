@@ -2,12 +2,11 @@ name: Update badges
 
 on:
   schedule:
-    # Runs at 2am UTC
-    - cron: "0 8 * * *"
+    - cron: "40 8 * * *"
 jobs:
   update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@master
+        uses: pemtajo/badge-readme@main
