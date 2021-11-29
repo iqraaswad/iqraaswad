@@ -16,8 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
-
-[![Update badges](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml/badge.svg)](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml)
