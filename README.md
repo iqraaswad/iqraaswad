@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 [![AWS Academy Accredited Educator](https://images.credly.com/size/110x110/images/f02e62ef-d483-49e7-b5c3-6c89893b1500/AWS-Academy-Accredited-Educator-Badge.png)](http://www.credly.com/badges/3175f815-65d2-44ac-8229-58d59d4323ac "AWS Academy Accredited Educator")
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/110x110/images/68468004-5a85-4f3b-bc58-590773979486/AWS-CloudPractitioner-2020.png)](http://www.credly.com/badges/8339a896-b507-4d18-9065-c56840c33351 "AWS Certified Cloud Practitioner")
 <!--END_SECTION:badges-->
+
+[![Update badges](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml/badge.svg)](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml)
