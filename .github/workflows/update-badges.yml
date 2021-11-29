@@ -11,4 +11,3 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
-          CREDLY_USER: iqraaswad # optional, but default will use the same from github
