@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:badges-->
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](http://www.credly.com/badges/a12c5ce4-e00c-4442-adc5-b8b187acd5f6 "AWS Certified Solutions Architect – Associate")
-[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/794b15e3-62c8-43ff-a3d6-b78eab35ead5 "CCNA: Introduction to Networks")
-[![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/8c0873fe-3466-41a1-a416-a1f056429fe7 "CCNA: Switching, Routing, and Wireless Essentials")
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/cafc34e1-2cb6-4c10-be74-a5b92a40422b "CCNA: Enterprise Networking, Security, and Automation")
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/30ce6c39-d9f0-42ba-aafe-93172dc1f8fb "CCNA: Switching, Routing, and Wireless Essentials")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/a79dd00b-862f-47b9-a053-3145ee1a7e38 "CCNA: Introduction to Networks")
