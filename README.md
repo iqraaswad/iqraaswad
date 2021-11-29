@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ My Digital Badges ...
+## ✨ My Digital Badges
 <!--START_SECTION:badges-->
 
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)](http://www.credly.com/badges/a12c5ce4-e00c-4442-adc5-b8b187acd5f6 "AWS Certified Solutions Architect – Associate")
