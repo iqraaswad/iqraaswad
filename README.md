@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## ✨ My Digital Badges
 <!--START_SECTION:badges-->
 [![AWS Academy Certified Educator](https://images.credly.com/size/110x110/images/a8a0c0e1-8682-4f1e-9758-7453882f84cf/image.png)](http://www.credly.com/badges/86a5b7d3-6b5e-4060-836f-ac7ba4b15482 "AWS Academy Certified Educator")
-[![AWS Academy Educator](https://images.credly.com/size/110x110/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](http://www.credly.com/badges/16668e87-b48e-4c5f-8850-b6608b0f0211 "AWS Academy Educator")
+[![AWS Academy Educator](https://images.credly.com/size/110x110/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png)](http://www.credly.com/badges/541f638b-1560-4605-9009-7efa84eaddb1 "AWS Academy Educator")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/a12c5ce4-e00c-4442-adc5-b8b187acd5f6 "AWS Certified Solutions Architect – Associate")
 [![CCNA: Enterprise Networking, Security, and Automation](https://images.credly.com/size/110x110/images/0a6d331e-8abf-4272-a949-33f754569a76/CCNAENSA__1_.png)](http://www.credly.com/badges/cafc34e1-2cb6-4c10-be74-a5b92a40422b "CCNA: Enterprise Networking, Security, and Automation")
 [![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/30ce6c39-d9f0-42ba-aafe-93172dc1f8fb "CCNA: Switching, Routing, and Wireless Essentials")
