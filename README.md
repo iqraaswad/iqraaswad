@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## ✨ My Digital Badges
+<p align="left">
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/bce18a47-08c7-4148-862a-1e888a65ebb6" title="Instructor 5 Years of Service"><img src="https://images.credly.com/size/80x80/images/cd82123f-6dc4-4181-badb-7ab1bc6707cd/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-02-no-year.png" alt="Instructor 5 Years of Service" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/9ce7a6c4-7123-49e0-ae0b-501a06d0f5ed" title="Instructor 1 Year of Service"><img src="https://images.credly.com/size/80x80/images/4802acaa-a2f7-49be-9a8e-666fa3f42e41/C05-743250-00_Cisco_Networking_Academy_Badge_Instructor_v4a-01-no-year.png" alt="Instructor 1 Year of Service" width="80" height="80"></a>
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/f317e354-4def-4dbd-9c80-bc19e9cc3d7b" title="AWS Academy Educator"><img src="https://images.credly.com/size/80x80/images/e7bf6727-22cf-45d6-ad9c-76ab57c3f11b/image.png" alt="AWS Academy Educator" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/82fe8d61-78c6-4e96-be72-4a598c55506a" title="AWS Academy Accredited Educator"><img src="https://images.credly.com/size/80x80/images/b664172a-5188-4a03-965c-55edcb635729/image.png" alt="AWS Academy Accredited Educator" width="80" height="80"></a>
 <!--END_SECTION:badges-->
-
+</p>
 [![Update badges](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml/badge.svg)](https://github.com/iqraaswad/iqraaswad/actions/workflows/update-badges.yml)
 
 ## ⚡ Skills
